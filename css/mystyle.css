@@ -1,3 +1,6 @@
 body a{
 	text-decoration:none;
 }
+.panel-body{
+	background-color: #D9D9D9;
+}
